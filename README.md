@@ -36,8 +36,9 @@ I'm a Backend Developer from India 🇮🇳 with nearly 3 years of experience bu
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yug-soni)
-- 💻 [HackerRank](https://www.hackerrank.com/yugsoni8946842393)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yug-soni-83b8b9191)
+- 💻 [HackerRank](https://www.hackerrank.com/profile/yugsoni894684231)
+- 💻 [LeetCode](https://leetcode.com/u/yugsoni8946842393/)
 - 📩 Email: yugsoni8946842393@gmail.com
 
 ---
